@@ -1,0 +1,1 @@
+console.log('Projeto Mystery Books carregado com sucesso!');
